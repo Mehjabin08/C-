@@ -1,0 +1,7 @@
+C:\Users\Teacher\source\repos\ToString()MethodExample\ToString()MethodExample\bin\Debug\ToString()MethodExample.exe.config
+C:\Users\Teacher\source\repos\ToString()MethodExample\ToString()MethodExample\bin\Debug\ToString()MethodExample.exe
+C:\Users\Teacher\source\repos\ToString()MethodExample\ToString()MethodExample\bin\Debug\ToString()MethodExample.pdb
+C:\Users\Teacher\source\repos\ToString()MethodExample\ToString()MethodExample\obj\Debug\ToString()MethodExample.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\ToString()MethodExample\ToString()MethodExample\obj\Debug\ToString()MethodExample.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\ToString()MethodExample\ToString()MethodExample\obj\Debug\ToString()MethodExample.exe
+C:\Users\Teacher\source\repos\ToString()MethodExample\ToString()MethodExample\obj\Debug\ToString()MethodExample.pdb

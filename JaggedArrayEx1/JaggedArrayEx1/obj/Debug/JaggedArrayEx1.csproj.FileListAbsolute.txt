@@ -1,0 +1,14 @@
+C:\Users\Teacher\source\repos\JaggedArrayEx1\JaggedArrayEx1\bin\Debug\JaggedArrayEx1.exe.config
+C:\Users\Teacher\source\repos\JaggedArrayEx1\JaggedArrayEx1\bin\Debug\JaggedArrayEx1.exe
+C:\Users\Teacher\source\repos\JaggedArrayEx1\JaggedArrayEx1\bin\Debug\JaggedArrayEx1.pdb
+C:\Users\Teacher\source\repos\JaggedArrayEx1\JaggedArrayEx1\obj\Debug\JaggedArrayEx1.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\JaggedArrayEx1\JaggedArrayEx1\obj\Debug\JaggedArrayEx1.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\JaggedArrayEx1\JaggedArrayEx1\obj\Debug\JaggedArrayEx1.exe
+C:\Users\Teacher\source\repos\JaggedArrayEx1\JaggedArrayEx1\obj\Debug\JaggedArrayEx1.pdb
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\JaggedArrayEx1\JaggedArrayEx1\bin\Debug\JaggedArrayEx1.exe.config
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\JaggedArrayEx1\JaggedArrayEx1\bin\Debug\JaggedArrayEx1.exe
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\JaggedArrayEx1\JaggedArrayEx1\bin\Debug\JaggedArrayEx1.pdb
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\JaggedArrayEx1\JaggedArrayEx1\obj\Debug\JaggedArrayEx1.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\JaggedArrayEx1\JaggedArrayEx1\obj\Debug\JaggedArrayEx1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\JaggedArrayEx1\JaggedArrayEx1\obj\Debug\JaggedArrayEx1.exe
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\JaggedArrayEx1\JaggedArrayEx1\obj\Debug\JaggedArrayEx1.pdb

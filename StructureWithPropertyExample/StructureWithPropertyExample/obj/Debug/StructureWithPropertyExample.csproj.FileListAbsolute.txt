@@ -1,0 +1,14 @@
+C:\Users\Teacher\source\repos\StructureWithPropertyExample\StructureWithPropertyExample\bin\Debug\StructureWithPropertyExample.exe.config
+C:\Users\Teacher\source\repos\StructureWithPropertyExample\StructureWithPropertyExample\bin\Debug\StructureWithPropertyExample.exe
+C:\Users\Teacher\source\repos\StructureWithPropertyExample\StructureWithPropertyExample\bin\Debug\StructureWithPropertyExample.pdb
+C:\Users\Teacher\source\repos\StructureWithPropertyExample\StructureWithPropertyExample\obj\Debug\StructureWithPropertyExample.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\StructureWithPropertyExample\StructureWithPropertyExample\obj\Debug\StructureWithPropertyExample.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\StructureWithPropertyExample\StructureWithPropertyExample\obj\Debug\StructureWithPropertyExample.exe
+C:\Users\Teacher\source\repos\StructureWithPropertyExample\StructureWithPropertyExample\obj\Debug\StructureWithPropertyExample.pdb
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\StructureWithPropertyExample\StructureWithPropertyExample\bin\Debug\StructureWithPropertyExample.exe.config
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\StructureWithPropertyExample\StructureWithPropertyExample\bin\Debug\StructureWithPropertyExample.exe
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\StructureWithPropertyExample\StructureWithPropertyExample\bin\Debug\StructureWithPropertyExample.pdb
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\StructureWithPropertyExample\StructureWithPropertyExample\obj\Debug\StructureWithPropertyExample.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\StructureWithPropertyExample\StructureWithPropertyExample\obj\Debug\StructureWithPropertyExample.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\StructureWithPropertyExample\StructureWithPropertyExample\obj\Debug\StructureWithPropertyExample.exe
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\StructureWithPropertyExample\StructureWithPropertyExample\obj\Debug\StructureWithPropertyExample.pdb

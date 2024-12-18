@@ -1,0 +1,7 @@
+C:\Users\Teacher\source\repos\StructureExample\StructureExample\bin\Debug\StructureExample.exe.config
+C:\Users\Teacher\source\repos\StructureExample\StructureExample\bin\Debug\StructureExample.exe
+C:\Users\Teacher\source\repos\StructureExample\StructureExample\bin\Debug\StructureExample.pdb
+C:\Users\Teacher\source\repos\StructureExample\StructureExample\obj\Debug\StructureExample.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\StructureExample\StructureExample\obj\Debug\StructureExample.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\StructureExample\StructureExample\obj\Debug\StructureExample.exe
+C:\Users\Teacher\source\repos\StructureExample\StructureExample\obj\Debug\StructureExample.pdb

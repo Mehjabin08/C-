@@ -1,0 +1,7 @@
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\PlaceHolderUsingExample\PlaceHolderUsingExample\bin\Debug\PlaceHolderUsingExample.exe.config
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\PlaceHolderUsingExample\PlaceHolderUsingExample\bin\Debug\PlaceHolderUsingExample.exe
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\PlaceHolderUsingExample\PlaceHolderUsingExample\bin\Debug\PlaceHolderUsingExample.pdb
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\PlaceHolderUsingExample\PlaceHolderUsingExample\obj\Debug\PlaceHolderUsingExample.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\PlaceHolderUsingExample\PlaceHolderUsingExample\obj\Debug\PlaceHolderUsingExample.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\PlaceHolderUsingExample\PlaceHolderUsingExample\obj\Debug\PlaceHolderUsingExample.exe
+C:\Users\USER\Downloads\C# codes\Week 4 and 5 Codes\Week 4 and 5 Codes\PlaceHolderUsingExample\PlaceHolderUsingExample\obj\Debug\PlaceHolderUsingExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\Teacher\source\repos\RunTimePolymorphismEx1\RunTimePolymorphismEx1\bin\Debug\RunTimePolymorphismEx1.exe.config
+C:\Users\Teacher\source\repos\RunTimePolymorphismEx1\RunTimePolymorphismEx1\bin\Debug\RunTimePolymorphismEx1.exe
+C:\Users\Teacher\source\repos\RunTimePolymorphismEx1\RunTimePolymorphismEx1\bin\Debug\RunTimePolymorphismEx1.pdb
+C:\Users\Teacher\source\repos\RunTimePolymorphismEx1\RunTimePolymorphismEx1\obj\Debug\RunTimePolymorphismEx1.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\RunTimePolymorphismEx1\RunTimePolymorphismEx1\obj\Debug\RunTimePolymorphismEx1.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\RunTimePolymorphismEx1\RunTimePolymorphismEx1\obj\Debug\RunTimePolymorphismEx1.exe
+C:\Users\Teacher\source\repos\RunTimePolymorphismEx1\RunTimePolymorphismEx1\obj\Debug\RunTimePolymorphismEx1.pdb

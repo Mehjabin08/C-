@@ -1,0 +1,7 @@
+C:\Users\Teacher\source\repos\InheritancePropertyEx1\InheritancePropertyEx1\bin\Debug\InheritancePropertyEx1.exe.config
+C:\Users\Teacher\source\repos\InheritancePropertyEx1\InheritancePropertyEx1\bin\Debug\InheritancePropertyEx1.exe
+C:\Users\Teacher\source\repos\InheritancePropertyEx1\InheritancePropertyEx1\bin\Debug\InheritancePropertyEx1.pdb
+C:\Users\Teacher\source\repos\InheritancePropertyEx1\InheritancePropertyEx1\obj\Debug\InheritancePropertyEx1.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\InheritancePropertyEx1\InheritancePropertyEx1\obj\Debug\InheritancePropertyEx1.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\InheritancePropertyEx1\InheritancePropertyEx1\obj\Debug\InheritancePropertyEx1.exe
+C:\Users\Teacher\source\repos\InheritancePropertyEx1\InheritancePropertyEx1\obj\Debug\InheritancePropertyEx1.pdb
